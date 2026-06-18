@@ -1,6 +1,6 @@
 {
     "0001": {
-        "": "0001",
+        ".": "0001",
         "Asset Description": "Electronic Precision Balance",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -23,7 +23,7 @@
         "Notes": ""
     },
     "0002": {
-        "": "0002",
+        ".": "0002",
         "Asset Description": "Demonstration Galvanometer",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -46,7 +46,7 @@
         "Notes": ""
     },
     "0003": {
-        "": "0003",
+        ".": "0003",
         "Asset Description": "Resistance Box",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -69,7 +69,7 @@
         "Notes": ""
     },
     "0004": {
-        "": "0004",
+        ".": "0004",
         "Asset Description": "Oscilloscope",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -92,7 +92,7 @@
         "Notes": ""
     },
     "0005": {
-        "": "0005",
+        ".": "0005",
         "Asset Description": "Experimental Vacuum Drop Tube",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -115,7 +115,7 @@
         "Notes": ""
     },
     "0006": {
-        "": "0006",
+        ".": "0006",
         "Asset Description": "Electric Rotation Platform",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -138,7 +138,7 @@
         "Notes": ""
     },
     "0007": {
-        "": "0007",
+        ".": "0007",
         "Asset Description": "Magdeburg Hemispheres",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -161,7 +161,7 @@
         "Notes": ""
     },
     "0008": {
-        "": "0008",
+        ".": "0008",
         "Asset Description": "Rotary Vacuum Pump",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -184,7 +184,7 @@
         "Notes": ""
     },
     "0009": {
-        "": "0009",
+        ".": "0009",
         "Asset Description": "Magnetic set",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -207,7 +207,7 @@
         "Notes": ""
     },
     "0010": {
-        "": "0010",
+        ".": "0010",
         "Asset Description": "Magnetising Coil",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -230,7 +230,7 @@
         "Notes": ""
     },
     "0011": {
-        "": "0011",
+        ".": "0011",
         "Asset Description": "Electrostatic generator",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -253,7 +253,7 @@
         "Notes": ""
     },
     "0012": {
-        "": "0012",
+        ".": "0012",
         "Asset Description": "Magnetic Field Experiment Equipment",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -276,7 +276,7 @@
         "Notes": ""
     },
     "0013": {
-        "": "0013",
+        ".": "0013",
         "Asset Description": "Vacuum Pump",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -299,7 +299,7 @@
         "Notes": ""
     },
     "0014": {
-        "": "0014",
+        ".": "0014",
         "Asset Description": "Electronic Table Balance",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -322,7 +322,7 @@
         "Notes": ""
     },
     "0015": {
-        "": "0015",
+        ".": "0015",
         "Asset Description": "Molecular Structure Model Inorganic",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -345,7 +345,7 @@
         "Notes": ""
     },
     "0016": {
-        "": "0016",
+        ".": "0016",
         "Asset Description": "Molecular Structure Model Organic",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -368,7 +368,7 @@
         "Notes": ""
     },
     "0017": {
-        "": "0017",
+        ".": "0017",
         "Asset Description": "DC Milliammeter",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -391,7 +391,7 @@
         "Notes": ""
     },
     "0018": {
-        "": "0018",
+        ".": "0018",
         "Asset Description": "Desicator",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -414,7 +414,7 @@
         "Notes": ""
     },
     "0019": {
-        "": "0019",
+        ".": "0019",
         "Asset Description": "Water Distillation Apparatus",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -437,7 +437,7 @@
         "Notes": ""
     },
     "0020": {
-        "": "0020",
+        ".": "0020",
         "Asset Description": "Hoffinanns Apparatus",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -460,7 +460,7 @@
         "Notes": ""
     },
     "0021": {
-        "": "0021",
+        ".": "0021",
         "Asset Description": "Kipps Apparatus",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -483,7 +483,7 @@
         "Notes": ""
     },
     "0022": {
-        "": "0022",
+        ".": "0022",
         "Asset Description": "Sample of Ores",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -506,7 +506,7 @@
         "Notes": ""
     },
     "0023": {
-        "": "0023",
+        ".": "0023",
         "Asset Description": "Microtome",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -529,7 +529,7 @@
         "Notes": ""
     },
     "0024": {
-        "": "0024",
+        ".": "0024",
         "Asset Description": "Prepared Slide Set",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -552,7 +552,7 @@
         "Notes": ""
     },
     "0025": {
-        "": "0025",
+        ".": "0025",
         "Asset Description": "Digital Microscope",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -575,7 +575,7 @@
         "Notes": ""
     },
     "0026": {
-        "": "0026",
+        ".": "0026",
         "Asset Description": "Model Set",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -598,7 +598,7 @@
         "Notes": ""
     },
     "0027": {
-        "": "0027",
+        ".": "0027",
         "Asset Description": "Human Skeleton",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -621,7 +621,7 @@
         "Notes": ""
     },
     "0028": {
-        "": "0028",
+        ".": "0028",
         "Asset Description": "Geometric Model Set",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -644,7 +644,7 @@
         "Notes": ""
     },
     "0029": {
-        "": "0029",
+        ".": "0029",
         "Asset Description": "Blackboard Instrument",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -667,7 +667,7 @@
         "Notes": ""
     },
     "0030": {
-        "": "0030",
+        ".": "0030",
         "Asset Description": "Geoboard with Plastic Pegs",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -690,7 +690,7 @@
         "Notes": ""
     },
     "0031": {
-        "": "0031",
+        ".": "0031",
         "Asset Description": "Optical Water Tank",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -713,7 +713,7 @@
         "Notes": ""
     },
     "0032": {
-        "": "0032",
+        ".": "0032",
         "Asset Description": "Bunsen Burner",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -736,7 +736,7 @@
         "Notes": ""
     },
     "0033": {
-        "": "0033",
+        ".": "0033",
         "Asset Description": "Wireless Antena",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -759,7 +759,7 @@
         "Notes": ""
     },
     "0034": {
-        "": "0034",
+        ".": "0034",
         "Asset Description": "Samsung Micro wave",
         "Financed by/ source of funds": "GOK",
         "Serial number": "CEL107 VS MS405 MAD",
@@ -782,7 +782,7 @@
         "Notes": ""
     },
     "0035": {
-        "": "0035",
+        ".": "0035",
         "Asset Description": "Armo Gas",
         "Financed by/ source of funds": "GOK",
         "Serial number": "3 BY 1 SIZE 60*60",
@@ -805,7 +805,7 @@
         "Notes": ""
     },
     "0036": {
-        "": "0036",
+        ".": "0036",
         "Asset Description": "Gas Cylinder",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -828,7 +828,7 @@
         "Notes": ""
     },
     "0037": {
-        "": "0037",
+        ".": "0037",
         "Asset Description": "KYOCERA FS-6530 MFP printer",
         "Financed by/ source of funds": "GOK",
         "Serial number": "V1E5404848",
@@ -851,7 +851,7 @@
         "Notes": ""
     },
     "0038": {
-        "": "0038",
+        ".": "0038",
         "Asset Description": "Printer",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -874,7 +874,7 @@
         "Notes": ""
     },
     "0039": {
-        "": "0039",
+        ".": "0039",
         "Asset Description": "Ramtons water dispenser",
         "Financed by/ source of funds": "GOK",
         "Serial number": "RM 430",
@@ -897,7 +897,7 @@
         "Notes": ""
     },
     "0040": {
-        "": "0040",
+        ".": "0040",
         "Asset Description": "Water dispenser",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -920,7 +920,7 @@
         "Notes": ""
     },
     "0041": {
-        "": "0041",
+        ".": "0041",
         "Asset Description": "Paper shredder",
         "Financed by/ source of funds": "GOK",
         "Serial number": "CO2013600027",
@@ -943,7 +943,7 @@
         "Notes": ""
     },
     "0042": {
-        "": "0042",
+        ".": "0042",
         "Asset Description": "Bread slicer",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -966,7 +966,7 @@
         "Notes": ""
     },
     "0043": {
-        "": "0043",
+        ".": "0043",
         "Asset Description": "Printer ECOSYS M5526CDW",
         "Financed by/ source of funds": "GOK",
         "Serial number": "(SNo VE902568540",
@@ -989,7 +989,7 @@
         "Notes": ""
     },
     "0044": {
-        "": "0044",
+        ".": "0044",
         "Asset Description": "Microwave",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -1012,7 +1012,7 @@
         "Notes": ""
     },
     "0045": {
-        "": "0045",
+        ".": "0045",
         "Asset Description": "Dispenser",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -1035,7 +1035,7 @@
         "Notes": ""
     },
     "0046": {
-        "": "0046",
+        ".": "0046",
         "Asset Description": "Minifridge",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -1058,7 +1058,7 @@
         "Notes": ""
     },
     "0047": {
-        "": "0047",
+        ".": "0047",
         "Asset Description": "Kitchen electronics",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -1081,7 +1081,7 @@
         "Notes": ""
     },
     "0048": {
-        "": "0048",
+        ".": "0048",
         "Asset Description": "Paper shredder",
         "Financed by/ source of funds": "GOK",
         "Serial number": "CRC46062",
@@ -1104,7 +1104,7 @@
         "Notes": ""
     },
     "0049": {
-        "": "0049",
+        ".": "0049",
         "Asset Description": "75 inch tv screen",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -1127,7 +1127,7 @@
         "Notes": ""
     },
     "0050": {
-        "": "0050",
+        ".": "0050",
         "Asset Description": "Printer ECOSYS M4125idn",
         "Financed by/ source of funds": "GOK",
         "Serial number": "Q7A19B0564",
@@ -1150,7 +1150,7 @@
         "Notes": ""
     },
     "0051": {
-        "": "0051",
+        ".": "0051",
         "Asset Description": "Printer IM C300",
         "Financed by/ source of funds": "GOK",
         "Serial number": "310R712199",
@@ -1173,7 +1173,7 @@
         "Notes": ""
     },
     "0052": {
-        "": "0052",
+        ".": "0052",
         "Asset Description": "Oven Cooker",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -1196,7 +1196,7 @@
         "Notes": ""
     },
     "0053": {
-        "": "0053",
+        ".": "0053",
         "Asset Description": "Blender",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -1219,7 +1219,7 @@
         "Notes": ""
     },
     "0054": {
-        "": "0054",
+        ".": "0054",
         "Asset Description": "Sewing machins",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -1242,7 +1242,7 @@
         "Notes": ""
     },
     "0055": {
-        "": "0055",
+        ".": "0055",
         "Asset Description": "ETR machine",
         "Financed by/ source of funds": "GOK",
         "Serial number": "KRAMW019202207043101",
@@ -1265,7 +1265,7 @@
         "Notes": ""
     },
     "0056": {
-        "": "0056",
+        ".": "0056",
         "Asset Description": "Microwave",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -1288,7 +1288,7 @@
         "Notes": ""
     },
     "0057": {
-        "": "0057",
+        ".": "0057",
         "Asset Description": "Electric kettle",
         "Financed by/ source of funds": "GOK",
         "Serial number": "N/A",
@@ -1311,7 +1311,7 @@
         "Notes": ""
     },
     "0058": {
-        "": "0058",
+        ".": "0058",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AAD8CA5AAF",
@@ -1334,7 +1334,7 @@
         "Notes": "Good"
     },
     "0059": {
-        "": "0059",
+        ".": "0059",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD8CA5AC6",
@@ -1357,7 +1357,7 @@
         "Notes": "Good"
     },
     "0060": {
-        "": "0060",
+        ".": "0060",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD865E273",
@@ -1380,7 +1380,7 @@
         "Notes": "Good"
     },
     "0061": {
-        "": "0061",
+        ".": "0061",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD865E270",
@@ -1403,7 +1403,7 @@
         "Notes": "Good"
     },
     "0062": {
-        "": "0062",
+        ".": "0062",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249D848B262",
@@ -1426,7 +1426,7 @@
         "Notes": "Good"
     },
     "0063": {
-        "": "0063",
+        ".": "0063",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B1B2",
@@ -1449,7 +1449,7 @@
         "Notes": "Good"
     },
     "0064": {
-        "": "0064",
+        ".": "0064",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B1B1",
@@ -1472,7 +1472,7 @@
         "Notes": "Good"
     },
     "0065": {
-        "": "0065",
+        ".": "0065",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B641",
@@ -1495,7 +1495,7 @@
         "Notes": "Good"
     },
     "0066": {
-        "": "0066",
+        ".": "0066",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B5DE",
@@ -1518,7 +1518,7 @@
         "Notes": "Good"
     },
     "0067": {
-        "": "0067",
+        ".": "0067",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B1B7",
@@ -1541,7 +1541,7 @@
         "Notes": "Good"
     },
     "0068": {
-        "": "0068",
+        ".": "0068",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249D848B497",
@@ -1564,7 +1564,7 @@
         "Notes": "Good"
     },
     "0069": {
-        "": "0069",
+        ".": "0069",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B1B8",
@@ -1587,7 +1587,7 @@
         "Notes": "Good"
     },
     "0070": {
-        "": "0070",
+        ".": "0070",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B440",
@@ -1610,7 +1610,7 @@
         "Notes": "Good"
     },
     "0071": {
-        "": "0071",
+        ".": "0071",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B593",
@@ -1633,7 +1633,7 @@
         "Notes": "Good"
     },
     "0072": {
-        "": "0072",
+        ".": "0072",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B1A6",
@@ -1656,7 +1656,7 @@
         "Notes": "Good"
     },
     "0073": {
-        "": "0073",
+        ".": "0073",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B622",
@@ -1679,7 +1679,7 @@
         "Notes": "Good"
     },
     "0074": {
-        "": "0074",
+        ".": "0074",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B4C9",
@@ -1702,7 +1702,7 @@
         "Notes": "Good"
     },
     "0075": {
-        "": "0075",
+        ".": "0075",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848BOB1",
@@ -1725,7 +1725,7 @@
         "Notes": "Good"
     },
     "0076": {
-        "": "0076",
+        ".": "0076",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B1B6",
@@ -1748,7 +1748,7 @@
         "Notes": "Good"
     },
     "0077": {
-        "": "0077",
+        ".": "0077",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B652",
@@ -1771,7 +1771,7 @@
         "Notes": "Good"
     },
     "0078": {
-        "": "0078",
+        ".": "0078",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B4DF",
@@ -1794,7 +1794,7 @@
         "Notes": "Good"
     },
     "0079": {
-        "": "0079",
+        ".": "0079",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B5E1",
@@ -1817,7 +1817,7 @@
         "Notes": "Good"
     },
     "0080": {
-        "": "0080",
+        ".": "0080",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848BO1B",
@@ -1840,7 +1840,7 @@
         "Notes": "Good"
     },
     "0081": {
-        "": "0081",
+        ".": "0081",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B43A",
@@ -1863,7 +1863,7 @@
         "Notes": "Good"
     },
     "0082": {
-        "": "0082",
+        ".": "0082",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B286",
@@ -1886,7 +1886,7 @@
         "Notes": "Good"
     },
     "0083": {
-        "": "0083",
+        ".": "0083",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249D848B283",
@@ -1909,7 +1909,7 @@
         "Notes": "Good"
     },
     "0084": {
-        "": "0084",
+        ".": "0084",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B1F7",
@@ -1932,7 +1932,7 @@
         "Notes": "Good"
     },
     "0085": {
-        "": "0085",
+        ".": "0085",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B4E1",
@@ -1955,7 +1955,7 @@
         "Notes": "Good"
     },
     "0086": {
-        "": "0086",
+        ".": "0086",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD8CA550B",
@@ -1978,7 +1978,7 @@
         "Notes": "Good"
     },
     "0087": {
-        "": "0087",
+        ".": "0087",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B205",
@@ -2001,7 +2001,7 @@
         "Notes": "Good"
     },
     "0088": {
-        "": "0088",
+        ".": "0088",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B252",
@@ -2024,7 +2024,7 @@
         "Notes": "Good"
     },
     "0089": {
-        "": "0089",
+        ".": "0089",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B201",
@@ -2047,7 +2047,7 @@
         "Notes": "Good"
     },
     "0090": {
-        "": "0090",
+        ".": "0090",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B417",
@@ -2070,7 +2070,7 @@
         "Notes": "Good"
     },
     "0091": {
-        "": "0091",
+        ".": "0091",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B4BE",
@@ -2093,7 +2093,7 @@
         "Notes": "Good"
     },
     "0092": {
-        "": "0092",
+        ".": "0092",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B064",
@@ -2116,7 +2116,7 @@
         "Notes": "Good"
     },
     "0093": {
-        "": "0093",
+        ".": "0093",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B432",
@@ -2139,7 +2139,7 @@
         "Notes": "Good"
     },
     "0094": {
-        "": "0094",
+        ".": "0094",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD865EA5F",
@@ -2162,7 +2162,7 @@
         "Notes": "Good"
     },
     "0095": {
-        "": "0095",
+        ".": "0095",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD8CA5AAF",
@@ -2185,7 +2185,7 @@
         "Notes": "Good"
     },
     "0096": {
-        "": "0096",
+        ".": "0096",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD8CA5AC6",
@@ -2208,7 +2208,7 @@
         "Notes": "Good"
     },
     "0097": {
-        "": "0097",
+        ".": "0097",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "2A9AD84B3DC",
@@ -2231,7 +2231,7 @@
         "Notes": "Good"
     },
     "0098": {
-        "": "0098",
+        ".": "0098",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B28F",
@@ -2254,7 +2254,7 @@
         "Notes": "Good"
     },
     "0099": {
-        "": "0099",
+        ".": "0099",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B262",
@@ -2277,7 +2277,7 @@
         "Notes": "Good"
     },
     "0100": {
-        "": "0100",
+        ".": "0100",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B1AA",
@@ -2300,7 +2300,7 @@
         "Notes": "Good"
     },
     "0101": {
-        "": "0101",
+        ".": "0101",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B073",
@@ -2323,7 +2323,7 @@
         "Notes": "Good"
     },
     "0102": {
-        "": "0102",
+        ".": "0102",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B183",
@@ -2346,7 +2346,7 @@
         "Notes": "Good"
     },
     "0103": {
-        "": "0103",
+        ".": "0103",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD848B43B",
@@ -2369,7 +2369,7 @@
         "Notes": "Good"
     },
     "0104": {
-        "": "0104",
+        ".": "0104",
         "Asset Description": "Office extension line",
         "Financed by/ source of funds": "CEMASTEA",
         "Serial number": "249AD8482239",
