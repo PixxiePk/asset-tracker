@@ -22,17 +22,38 @@
         <div class="header">
             <h1>Asset Information</h1>
         </div>
-        <div class="content" id="data-container"></div>
+        <div class="content" id="data-container">
+            <div class="empty-state">Loading database...</div>
+        </div>
     </div>
     <script>
         const params = new URLSearchParams(window.location.search);
+        const assetId = params.get('id');
         const container = document.getElementById('data-container');
-        let hasData = false;
-        params.forEach((value, key) => {
-            hasData = true;
-            container.innerHTML += `<div class="data-row"><div class="label">${key}</div><div class="value">${value}</div></div>`;
-        });
-        if (!hasData) { container.innerHTML = '<div class="empty-state">No asset data found. Please scan a valid QR code.</div>'; }
+
+        if (!assetId) {
+            container.innerHTML = '<div class="empty-state">No Asset ID provided.</div>';
+        } else {
+            // Fetch the static JSON database we exported from the Python app
+            fetch('database.json')
+                .then(response => response.json())
+                .then(db => {
+                    const assetData = db[assetId];
+                    if (assetData) {
+                        container.innerHTML = ''; 
+                        for (const [key, value] of Object.entries(assetData)) {
+                            if (value) { 
+                                container.innerHTML += `<div class="data-row"><div class="label">${key}</div><div class="value">${value}</div></div>`;
+                            }
+                        }
+                    } else {
+                        container.innerHTML = '<div class="empty-state">Asset ID not found in database.</div>';
+                    }
+                })
+                .catch(err => {
+                    container.innerHTML = '<div class="empty-state">Error: Could not load database.json</div>';
+                });
+        }
     </script>
 </body>
 </html>
