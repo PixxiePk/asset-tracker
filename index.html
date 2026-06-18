@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asset Details</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f3f4f6; color: #1f2937; margin: 0; padding: 20px; display: flex; justify-content: center; }
+        .card { background: #ffffff; width: 100%; max-width: 400px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); overflow: hidden; margin-top: 20px; }
+        .header { background-color: #2563eb; color: white; padding: 20px; text-align: center; }
+        .header h1 { margin: 0; font-size: 1.5rem; }
+        .content { padding: 20px; }
+        .data-row { margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px solid #e5e7eb; }
+        .data-row:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+        .label { font-size: 0.875rem; color: #6b7280; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; }
+        .value { font-size: 1.125rem; font-weight: 500; color: #111827; word-break: break-word; }
+        .empty-state { text-align: center; color: #6b7280; font-style: italic; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="header">
+            <h1>Asset Information</h1>
+        </div>
+        <div class="content" id="data-container"></div>
+    </div>
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const container = document.getElementById('data-container');
+        let hasData = false;
+        params.forEach((value, key) => {
+            hasData = true;
+            container.innerHTML += `<div class="data-row"><div class="label">${key}</div><div class="value">${value}</div></div>`;
+        });
+        if (!hasData) { container.innerHTML = '<div class="empty-state">No asset data found. Please scan a valid QR code.</div>'; }
+    </script>
+</body>
+</html>
